@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/afsanamujawar2491-hue/React-Portfolio/static/css/main.1c128870.css",
+    "main.js": "/afsanamujawar2491-hue/React-Portfolio/static/js/main.709f75cf.js",
+    "static/js/671.bd747464.chunk.js": "/afsanamujawar2491-hue/React-Portfolio/static/js/671.bd747464.chunk.js",
+    "static/js/453.47b9723b.chunk.js": "/afsanamujawar2491-hue/React-Portfolio/static/js/453.47b9723b.chunk.js",
+    "static/media/profile.jpg": "/afsanamujawar2491-hue/React-Portfolio/static/media/profile.0f66890e36ad3531a238.jpg",
+    "static/media/project1.webp": "/afsanamujawar2491-hue/React-Portfolio/static/media/project1.afbf3911a94f19ad4ec0.webp",
+    "index.html": "/afsanamujawar2491-hue/React-Portfolio/index.html",
+    "main.1c128870.css.map": "/afsanamujawar2491-hue/React-Portfolio/static/css/main.1c128870.css.map",
+    "main.709f75cf.js.map": "/afsanamujawar2491-hue/React-Portfolio/static/js/main.709f75cf.js.map",
+    "671.bd747464.chunk.js.map": "/afsanamujawar2491-hue/React-Portfolio/static/js/671.bd747464.chunk.js.map",
+    "453.47b9723b.chunk.js.map": "/afsanamujawar2491-hue/React-Portfolio/static/js/453.47b9723b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c128870.css",
+    "static/js/main.709f75cf.js"
+  ]
+}
