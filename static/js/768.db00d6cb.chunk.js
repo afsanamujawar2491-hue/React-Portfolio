@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkprotfolio=self.webpackChunkprotfolio||[]).push([[768],{768(s,a,e){e.r(a),e.d(a,{default:()=>l});e(43);var i=e(579);const c=["React","JavaScript","CSS","HTML","Swift","Objective C","Git"],l=()=>(0,i.jsx)("div",{className:"skills-container",children:c.map((s,a)=>(0,i.jsx)("div",{className:"skill-card",children:s},a))})}}]);
+//# sourceMappingURL=768.db00d6cb.chunk.js.map
