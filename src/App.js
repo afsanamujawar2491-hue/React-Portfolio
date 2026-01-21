@@ -1,4 +1,4 @@
-// src/App.jsx
+
 import React, { Suspense } from 'react';
 import Navbar from './Navbar';
 import Footer from './Footer';

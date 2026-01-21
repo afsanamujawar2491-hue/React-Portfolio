@@ -8,7 +8,6 @@ const AboutMe = () => {
     <div className="about-container">
       <div className="profile-pic">
         <img
-          //src="./ass/images/profile.jpg"
           src={profile}
           alt="Profile"
           loading="lazy"
