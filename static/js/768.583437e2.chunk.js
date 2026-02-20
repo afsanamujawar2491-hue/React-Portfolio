@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkprotfolio=self.webpackChunkprotfolio||[]).push([[768],{768(s,l,i){i.r(l),i.d(l,{default:()=>c});i(43);var e=i(579);const a=["React","JavaScript","CSS","HTML","Swift","Objective C","Git"],c=()=>(0,e.jsxs)("div",{className:"skills-section",children:[(0,e.jsx)("h1",{className:"title",children:"\ud83d\udcbb Skills"}),(0,e.jsx)("div",{className:"skills-container",children:a.map(s=>(0,e.jsx)("div",{className:"skill-card",children:s},s))})]})}}]);
+//# sourceMappingURL=768.583437e2.chunk.js.map

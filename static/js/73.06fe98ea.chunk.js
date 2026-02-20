@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkprotfolio=self.webpackChunkprotfolio||[]).push([[73],{73(e,s,l){l.r(s),l.d(s,{default:()=>n});l(43);var r=l(579);const n=()=>(0,r.jsxs)("div",{style:{textAlign:"center"},children:[(0,r.jsx)("h2",{children:"\ud83d\udcc4 Resume"}),(0,r.jsx)("p",{children:"Download my resume for detailed experience and skills."}),(0,r.jsx)("a",{className:"button",href:"/resume.pdf",target:"_blank",children:"Download Resume"})]})}}]);
+//# sourceMappingURL=73.06fe98ea.chunk.js.map
