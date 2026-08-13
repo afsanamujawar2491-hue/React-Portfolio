@@ -88,7 +88,23 @@ h1, h2, h3 {
   text-align: center;
   box-shadow: 0px 4px 12px rgba(0,0,0,0.05);
 }
+.skills-section {
+  padding: 60px 20px;
+  text-align: center;
+}
 
+.title {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.divider {
+  width: 70px;
+  height: 3px;
+  background: #007bff;
+  margin: 0 auto 40px;
+  border-radius: 5px;
+}
 /* Buttons */
 .button {
   display: inline-block;
@@ -221,4 +237,57 @@ h1, h2, h3 {
   .project-card {
     width: 90%;
   }
+}
+/*Qualification*/
+.education-container {
+  padding: 50px 20px;
+  /* /background: linear-gradient(to right, #141e30, #243b55); */
+  /* min-height: 100vh; */
+  color: black;
+  text-align: center;
+}
+
+.title {
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
+.education-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  padding: 25px;
+  margin: 20px auto;
+  width: 80%;
+  max-width: 600px;
+  border-radius: 15px;
+  transition: transform 0.3s ease;
+}
+
+.education-card:hover {
+  transform: translateY(-5px);
+}
+
+.duration {
+  font-style: italic;
+  color: #ddd;
+}
+
+.grade {
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.subjects ul {
+  list-style: none;
+  padding: 0;
+}
+
+.subjects li {
+  background: #00c6ff;
+  color: black;
+  padding: 6px 10px;
+  margin: 5px;
+  display: inline-block;
+  border-radius: 8px;
+  font-size: 14px;
 }

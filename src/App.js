@@ -8,6 +8,8 @@ const Projects = React.lazy(() => import('./Project'));
 const Skills = React.lazy(() => import('./Skills'));
 const Resume = React.lazy(() => import('./Resume'));
 const Contact = React.lazy(() => import('./Contact'));
+const Qualification = React.lazy(() => import('./Qualification'));
+
 
 function App() {
   return (
@@ -17,8 +19,10 @@ function App() {
         <section id="about"><AboutMe /></section>
         <section id="projects"><Projects /></section>
         <section id="skills"><Skills /></section>
+        <section id="qualification"><Qualification /></section>
         <section id="resume"><Resume /></section>
         <section id="contact"><Contact /></section>
+
       </Suspense>
       <Footer/>
     </>

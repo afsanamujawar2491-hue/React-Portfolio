@@ -26,12 +26,27 @@ const projects = [
     image: project3Img,
     technology_used:"CSS,React JS",
   },
+  {
+    id: 4,
+    title: 'Friendzo',
+    description: 'Social media platform allowing users to register, login, create posts, upload media, like, comment, share content, and manage profiles through a responsive web interface.',
+    image: project3Img,
+    technology_used:"React.js, Spring Boot, Java, MySQL",
+  },
+   {
+    id: 5,
+    title: 'RuralLearn – Gamified Learning Platform for Rural Education',
+    description: 'Gamified e-learning platform for rural school students featuring secure authentication, interactive quizzes, rewards, badges, streaks, and leaderboards to enhance engagement. Includes a teacher admin dashboard for managing students, monitoring progress, and tracking performance through a responsive web interface.',
+    image: project3Img,
+    technology_used:"React.js, Spring Boot, Java, Spring Security, JWT, MySQL, Tailwind CSS",
+  },
+  
   
 ];
 
 const Projects = () => (
   <section className="projects-section">
-    <h2 className="projects-title">My Projects</h2>
+    <h2 className="projects-title">🚀 My Projects</h2>
     <div className="projects-container">
       {projects.map(({ id, title, description, image,technology_used }) => (
         <div key={id} className="project-card">
