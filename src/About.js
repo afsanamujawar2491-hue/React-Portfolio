@@ -3,10 +3,8 @@ import React from 'react';
 
 import profile from './assets/profile.jpg';
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 82ba57e965c4db5f24733b8ec4519f231c92d328
+
 const AboutMe = () => {
   return (
     <div className="about-container">
