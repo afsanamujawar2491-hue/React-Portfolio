@@ -26,6 +26,7 @@ const projects = [
     image: project3Img,
     technology_used:"CSS,React JS",
   },
+<<<<<<< HEAD
   {
     id: 4,
     title: 'Friendzo',
@@ -41,12 +42,18 @@ const projects = [
     technology_used:"React.js, Spring Boot, Java, Spring Security, JWT, MySQL, Tailwind CSS",
   },
   
+=======
+>>>>>>> 82ba57e965c4db5f24733b8ec4519f231c92d328
   
 ];
 
 const Projects = () => (
   <section className="projects-section">
+<<<<<<< HEAD
     <h2 className="projects-title">🚀 My Projects</h2>
+=======
+    <h2 className="projects-title">My Projects</h2>
+>>>>>>> 82ba57e965c4db5f24733b8ec4519f231c92d328
     <div className="projects-container">
       {projects.map(({ id, title, description, image,technology_used }) => (
         <div key={id} className="project-card">
