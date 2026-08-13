@@ -38,7 +38,7 @@ const projects = [
     title: 'RuralLearn – Gamified Learning Platform for Rural Education',
     description: 'Gamified e-learning platform for rural school students featuring secure authentication, interactive quizzes, rewards, badges, streaks, and leaderboards to enhance engagement. Includes a teacher admin dashboard for managing students, monitoring progress, and tracking performance through a responsive web interface.',
     image: project3Img,
-    technology_used:"React.js, Spring Boot, Java, Spring Security, JWT, MySQL, Tailwind CSS",
+    technology_used:"React.js, Spring Boot, Java, MySQL",
   },
   
   

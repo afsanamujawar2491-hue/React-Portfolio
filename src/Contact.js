@@ -13,11 +13,7 @@ const Contact = () => {
 
   return (
     <div style={{ maxWidth: '600px', margin: '0 auto' }}>
-<<<<<<< HEAD
       <h2>Contact Me</h2>
-=======
-      <h2>Let’s connect and turn ideas into reality</h2>
->>>>>>> 82ba57e965c4db5f24733b8ec4519f231c92d328
       <form className="contact-form" onSubmit={handleSubmit}>
         <input name="name" placeholder="Name" onChange={handleChange} required />
         <input name="email" type="email" placeholder="Email" onChange={handleChange} required />
